@@ -1,0 +1,275 @@
+Term,BioGPT_Definition,Spanish_Translation,BERT_Precision,BERT_Recall,BERT_F1
+Atypical,a rare form of the disease.,A propósito de un caso. A propósito de un caso,0.4113639,0.6313172,0.498141
+Abduction,a common clinical presentation of the acute abdomen.,Una presentación clínica común del abdomen agudo,0.57382745,0.74994075,0.65016913
+Abdominocentesis,a safe and effective procedure for the diagnosis of ascites in patients with cirrhosis.,Un procedimiento seguro y eficaz para el diagnóstico de la ascitis en pacientes con cirrosis,0.7122703,0.84329593,0.77226496
+Cardiac,the most common site of metastasis.,El sitio más frecuente de metástasis,0.5686191,0.6420342,0.6031006
+Acouesthesia,a common complaint in patients with chronic pain.,Una queja frecuente en pacientes con dolor crónico,0.52607393,0.64778674,0.5806204
+Adduction,a common complication of the use of intravenous (IV) corticosteroids in patients with inflammatory bowel disease.,Complicación frecuente del uso de corticoesteroides intravenosos (IV) en pacientes con enfermedad inflamatoria intestinal,0.6410458,0.7405411,0.68721086
+Myalgia,a common complaint in the general population.,Una queja común en la población general,0.6152209,0.7308055,0.6680505
+Oligohydramnios,a common finding in pregnancies complicated by fetal growth restriction (FGR).,Hallazgo frecuente en embarazos complicados por restricción del crecimiento fetal (GRF).,0.5397595,0.6687978,0.5973899
+Anoxia,a common cause of death in the neonatal period.,Una causa común de muerte en el período neonatal,0.62819564,0.8191835,0.71108884
+Lymphangitis,a rare complication of chronic venous insufficiency.,Una rara complicación de la insuficiencia venosa crónica,0.5571484,0.6828481,0.61362714
+Antepartum,a period of increased risk for preterm birth.,Un período de riesgo aumentado para el parto pretérmino,0.45487285,0.64873755,0.53477764
+Antipsychotic,a common treatment for schizophrenia.,A propósito de un tratamiento para el tratamiento del inmunodeficiencia humana,0.43580824,0.6483877,0.52125764
+Aortography,the gold standard for diagnosis of aortic dissection.,El patrón oro para el diagnóstico de la disección aórtica,0.46047693,0.6611246,0.5428534
+Plasmapheresis,a therapeutic option for the treatment of severe acute pancreatitis.,Una opción terapéutica para el tratamiento de la pancreatitis aguda grave,0.6104095,0.8333776,0.7046768
+Appendicular,the most common site of appendicectomy in children.,El sitio más frecuente de la apendicectomía en el niño,0.61260664,0.7419555,0.6711052
+Coronary,a common cause of death in patients with diabetes mellitus.,Una causa frecuente de muerte en pacientes con diabetes mellitus,0.7006482,0.8066382,0.7499167
+Myasthenia gravis,an autoimmune disease characterized by fluctuating weakness of the extraocular muscles.,Una enfermedad autoinmune caracterizada por debilidad fluctuante de los músculos extraoculares.,0.6115481,0.7403384,0.6698085
+Artroscope,a new device for the diagnosis of esophageal diseases.,Un nuevo dispositivo para el diagnóstico de las enfermedades esofágicas,0.6100414,0.8049007,0.69405353
+Audiology,a specialty that deals with the hearing of people.,Una especialidad que trata de la audición de las personas.,0.6180659,0.8047607,0.6991648
+Auricular Cartilage,a promising source of autologous cartilage for auricular reconstruction.,Una fuente prometedora de cartílago autólogo para reconstrucción auricular,0.5436902,0.6478027,0.5911978
+Axillary Lymph Node,the most common site of metastasis in breast cancer.,El sitio más frecuente de metástasis en el cáncer de mama,0.44176796,0.5933026,0.50644296
+Barotrauma,a common complication of cardiac surgery.,A propósito de una complicación de la &quot;a propósito&quot;,0.2990187,0.54328555,0.38573366
+Biceps,the most common tendon involved in rotator cuff tears.,El tendón más frecuente implicado en las roturas del manguito rotador,0.53716695,0.6537821,0.5897652
+Myeloblast,the most common cell type in acute myeloid leukemia (AML).,El tipo celular más frecuente en la leucemia mieloide aguda (LMA).,0.5785314,0.64610726,0.61045486
+Blepharoplasty,a common aesthetic surgery performed by plastic surgeons.,Una cirugía estética común realizada por cirujanos plásticos,0.44411606,0.61196303,0.5147012
+Brachial Artery,a common site of arterial injury in patients with diabetes mellitus.,Un sitio común de lesión arterial en pacientes con diabetes mellitus,0.7267308,0.8487245,0.7830044
+Bradycardia,a common complication of the use of intravenous (IV) magnesium sulfate.,Una complicación frecuente del uso de sulfato de magnesio intravenoso (IV).,0.66881156,0.778666,0.7195702
+Bronchospasm,a common complication of asthma.,A propósito de una complicación del asma. A propósito de un caso,0.4479852,0.6491127,0.5301129
+Bronchiolitis,a common cause of hospitalization in infants.,Una causa frecuente de hospitalización en el lactante,0.60440814,0.7775262,0.6801237
+Calcification,a common finding in the aorta and its branches.,Un hallazgo frecuente en la aorta y sus ramas,0.609442,0.7092459,0.65556717
+Cancerous,a type of cancer that has the ability to invade and metastasize.,Un tipo de cáncer que tiene la capacidad de invader y metastatizar.,0.68591624,0.82837576,0.750445
+Adenocarcinoma,the most common type of lung cancer.,El tipo más frecuente de cáncer de pulmón,0.48459497,0.5854807,0.53028214
+Myocarditis,a rare but potentially fatal complication of acute viral myocarditis.,Una complicación rara pero potencialmente fatal de la miocarditis viral aguda,0.6340469,0.81448686,0.71302843
+Radiocarpal,the most common site of involvement.,&quot;El más frecuente de los sitios de afección&quot;,0.47982258,0.7015769,0.5698876
+Celiac Artery,a rare but important source of gastrointestinal bleeding.,Una fuente infrecuente pero importante de hemorragia digestiva,0.5701962,0.67283785,0.61727923
+Thoracentesis,a safe procedure that can be performed in the outpatient setting.,Un procedimiento seguro que se puede realizar en el ámbito ambulatorio.,0.58200765,0.68759716,0.6304116
+Cerebroside,a major component of the brain and cerebrospinal fluid (CSF).,Un componente mayor del cerebro y del líquido cefalorraquídeo (LCR).,0.5779177,0.694435,0.63084126
+Cheiloplasty,a common procedure in cleft palate repair.,Un procedimiento común en la reparación del paladar hendido,0.5270342,0.72595906,0.61070603
+Cholesterol,a major component of the cell membrane and plays an important role in many cellular processes.,Un componente mayor de la membrana celular y desempeña un papel importante en muchos procesos celulares,0.59182334,0.745502,0.65983266
+Chromogen,added to the reaction mixture and the color change of the solution measured.,Adicionado a la mezcla de reacción y al cambio de color de la solución medida,0.5010908,0.6344985,0.55995834
+Colorectal,the third most common cancer in men and second in women.,El tercer cáncer más frecuente en el hombre y el segundo en la mujer,0.505099,0.6083658,0.5519437
+Coniophage,"a new genus of the family Siphoviridae, which infects bacteria in the order Bacillales.","Un nuevo género de la familia Siphoviridae, que infecta bacterias del orden Bacillales.",0.7765859,0.87595737,0.82328385
+Corometer,a new device for measuring the distance between two points on an object.,Un nuevo dispositivo para medir la distancia entre dos puntos de un objeto,0.68121576,0.7855185,0.72965854
+Coronary Artery,the most common site of atherosclerotic disease in patients with diabetes mellitus.,El sitio más frecuente de la enfermedad aterosclerótica en pacientes con diabetes mellitus,0.6610797,0.80620956,0.72646725
+Costophrenic Angle,a common finding in patients with Down syndrome.,Hallazgo frecuente en pacientes con síndrome de Down,0.56061167,0.6642823,0.6080598
+Craniotomy,the most common neurosurgical procedure performed in children.,El procedimiento neuroquirúrgico más frecuente realizado en el niño,0.5564281,0.7068897,0.62269884
+Cryosurgery,a safe and effective treatment for the management of benign prostatic hyperplasia.,Un tratamiento seguro y eficaz para el manejo de la hiperplasia benigna de próstata,0.6220832,0.7756573,0.6904334
+Cryptorchism,a common disorder in childhood.,A propósito de un trastorno de la infancia,0.50160766,0.6541469,0.567811
+Cutaneous Lymphoma,a heterogeneous group of diseases characterized by the infiltration and proliferation of malignant lymphocytes in various tissues.,Un grupo heterogéneo de enfermedades caracterizadas por la infiltración y proliferación de linfocitos malignos en diversos tejidos.,0.6071118,0.78524727,0.6847844
+Cytology,a useful adjunct to the diagnosis of this condition.,un complemento útil para el diagnóstico de esta entidad.,0.5974765,0.7691996,0.6725495
+Polydactyly,a common congenital anomaly of the hand.,Una anomalía congénita común de la mano,0.48323536,0.6270426,0.5458258
+Dehydrate,a common cause of acute pancreatitis.,Una causa frecuente de pancreatitis aguda,0.60817534,0.76199305,0.6764502
+Dentine,a complex biological material that has been used in the past for many years as an alternative to synthetic materials.,Un material biológico complejo que se ha utilizado en el pasado durante muchos años como alternativa a los materiales sintéticos.,0.629975,0.79204863,0.7017758
+Denture,a common cause of dysphagia.,Una causa frecuente de disfagia,0.6133129,0.7068511,0.65676826
+Epidermal,a major target of the immune system.,Una diana mayor del sistema inmune,0.47552097,0.62900794,0.54160005
+Pleurodesis,a common procedure in the management of malignant pleural effusions.,Un procedimiento común en el manejo de los derrames pleurales malignos,0.58056474,0.7406908,0.65092474
+Dextrocardia,a rare congenital heart disease.,A propósito de un caso de enfermedad congénita,0.44932383,0.6443738,0.5294562
+Dialysis,a life-saving procedure for patients with end stage renal disease.,Un procedimiento de rescate vital en pacientes con enfermedad renal terminal,0.59568655,0.7205263,0.652186
+Diploid,the most common form of cancer in humans.,La forma más frecuente de cáncer en el hombre,0.50309294,0.68206036,0.57906395
+Dorsolateral,the most common site of involvement.,&quot;El más frecuente de los sitios de afección&quot;,0.47982258,0.7015769,0.5698876
+Syndrome,a rare complication of chronic pancreatitis.,Una rara complicación de la pancreatitis crónica,0.633638,0.83163613,0.7192596
+Dysphagia,a common symptom in patients with head and neck cancer.,Un síntoma frecuente en pacientes con cáncer de cabeza y cuello,0.5158004,0.5853431,0.5483758
+Esophageal,the most common site of metastasis from breast cancer.,El sitio más frecuente de metástasis por cáncer de mama,0.44502756,0.5864568,0.5060463
+Echography,a useful tool for the diagnosis of this disease.,Una herramienta útil para el diagnóstico de esta enfermedad,0.5898005,0.7775035,0.6707681
+Bronchiectasis,a chronic inflammatory disease of the airways characterized by progressive destruction and narrowing.,Una enfermedad inflamatoria crónica de las vías aéreas caracterizada por destrucción progresiva y estrechamiento.,0.56948596,0.67745847,0.61879754
+Mastectomy,the most common surgical procedure for breast cancer.,El procedimiento quirúrgico más frecuente en el cáncer de mama,0.46253672,0.5719651,0.51146334
+Polyembryoma,a polyploid tumor of the embryonic kidney.,Tumor poliploide de riñón embrionario,0.5887741,0.69732404,0.63846815
+Hematemesis,a common presentation of gastric cancer.,A propósito de un caso de cáncer de mama,0.5031677,0.65022844,0.5673228
+Anemia,"a common complication of chronic kidney disease (CKD) and may be associated with increased morbidity, mortality, and health care costs.","Una complicación frecuente de la enfermedad renal crónica (ERC) y puede estar asociada a un aumento de la morbilidad, la mortalidad y los costes asistenciales",0.59477264,0.7243149,0.6531829
+Emmetropia,a common condition in children.,Afección infantil,0.45800692,0.60653055,0.52190775
+Anencephaly,"a rare congenital anomaly, which can be associated with other malformations.","Una rara anomalía congénita, que puede estar asociada a otras malformaciones",0.6420729,0.78955984,0.7082193
+Endotracheal,the most common site of infection.,La infección por el virus de la inmunodeficiencia humana,0.46620637,0.60925424,0.52821684
+Epidermis,a complex tissue that has been shown to be involved in the pathogenesis of several skin diseases.,Un tejido complejo que se ha demostrado implicado en la patogenia de algunas enfermedades de la piel.,0.6279799,0.74513024,0.6815576
+Episiotomy,"a common obstetric procedure, but the incidence of perineal tears has not been well studied.","Un procedimiento obstétrico común, pero la incidencia de desgarros perineales no ha sido bien estudiada.",0.610065,0.7054223,0.6542875
+Diuresis,a common side effect of the use of these drugs.,Un efecto colateral frecuente del uso de estos fármacos,0.54920745,0.7530988,0.63519233
+Esophagitis,a common complication of gastroesophageal reflux disease (GERD).,Una complicación frecuente de la enfermedad por reflujo gastroesofágico (ERGE).,0.58434117,0.70606697,0.6394628
+Etiology,unknown.,&quot;.&quot;,0.31671748,0.60835564,0.41656566
+Eupnea,a complex behavior that involves the coordination of several respiratory muscles.,Un comportamiento complejo que implica la coordinación de algunos músculos respiratorios.,0.6075653,0.79241586,0.68778694
+Facioplasty,a well-established procedure for correcting facial asymmetry.,Un procedimiento bien establecido para corregir la asimetría facial,0.5819979,0.7537984,0.6568502
+Fetoplacental Relation,a Risk Factor for Childhood Asthma.,Un factor de riesgo para el asma infantil,0.5634245,0.7081861,0.6275654
+Galactose,the only sugar that can be used as a carbon source for growth of S.,El único azúcar que puede usarse como fuente de carbono para el crecimiento de S,0.62867796,0.77614504,0.6946715
+Epigastric,the most common site of metastasis.,El sitio más frecuente de metástasis,0.5686191,0.6420342,0.6031006
+Teratogen,a term used to describe the adverse effects of drugs on human development.,Un término empleado para describir los efectos adversos de los fármacos sobre el desarrollo humano,0.59783995,0.781967,0.6776181
+Carcinogenic,a complex process that involves multiple genetic and epigenetic alterations.,Un complejo proceso que implica múltiples alteraciones genéticas y epigenéticas.,0.6793572,0.8350056,0.7491824
+Gingivitis,a common oral disease that can lead to tooth loss.,Una enfermedad oral frecuente que puede conducir a la pérdida dentaria,0.5694256,0.7369758,0.6424563
+Macroglossia,a rare congenital anomaly of the tongue.,Una rara anomalía congénita de la lengua,0.49774092,0.6883691,0.5777364
+Hypoglycemia,a common complication of diabetes mellitus.,A propósito de un caso. A propósito de un caso,0.398685,0.5908432,0.47610635
+Prognathous,"a rare condition, and the diagnosis of this anomaly can be challenging.","Una rara entidad, y el diagnóstico de esta anomalía puede ser un reto.",0.55418503,0.69813454,0.61788654
+Electrocardiogram,a useful tool for the diagnosis of acute myocardial infarction.,Una herramienta útil para el diagnóstico del infarto agudo de miocardio,0.60196644,0.8064555,0.68936604
+Electrocardiograph,a useful tool for the diagnosis of cardiac arrhythmias.,Una herramienta útil para el diagnóstico de las arritmias cardíacas,0.5780076,0.76651955,0.6590482
+Echocardiography,a useful tool for the diagnosis of cardiac involvement in systemic lupus erythematosus.,Una herramienta útil para el diagnóstico de la afectación cardíaca en el lupus eritematoso sistémico,0.5781444,0.73865664,0.6486176
+Gynecology,a specialty that deals with the care of women.,Una especialidad que se ocupa del cuidado de la mujer,0.5620972,0.71626216,0.6298838
+Hemorrhoid,a common disease in the elderly.,Enfermedad en el adulto mayor,0.6139804,0.68227786,0.64632994
+Hematology,a useful tool for the diagnosis of acute and chronic diseases.,Una herramienta útil para el diagnóstico de las enfermedades agudas y crónicas,0.50037205,0.7258061,0.5923659
+Hemicolectomy,the treatment of choice for patients with acute colonic diverticulitis.,Tratamiento de elección en pacientes con diverticulitis aguda de colon,0.5829785,0.75716496,0.65875167
+Hepatitis,"a common disease in the United States, and it has been associated with increased risk of cardiovascular events.","Una enfermedad común en los Estados Unidos, y se ha asociado a un aumento del riesgo de eventos cardiovasculares.",0.6347757,0.750556,0.68782765
+Heterogeneous,a common feature of the human genome.,Una característica común del genoma humano.,0.60614,0.79271173,0.6869839
+Hidradenoma,a rare benign tumor of the breast.,Tumor benigno de mama poco frecuente,0.49566385,0.7090066,0.5834441
+Histamine,a potent bronchoconstrictor and mast cell degranulating agent.,Un potente broncoconstrictor y agente degranulador de mastocitos,0.7031603,0.79863393,0.74786234
+Homozygous genotype,associated with a higher risk of developing the disease.,Asociación con un mayor riesgo de desarrollar la enfermedad,0.54567814,0.68735677,0.6083779
+Humeroscapular,a rare condition.,A propósito de un caso. A propósito de un caso,0.4130227,0.6011835,0.4896488
+Hypertension,a major risk factor for cardiovascular disease.,Un factor de riesgo importante para la enfermedad cardiovascular,0.67112696,0.7983638,0.72923696
+Hypnotism,a rare but serious complication of electroconvulsive therapy (ECT).,Una complicación rara pero grave de la terapia electroconvulsiva (ECT).,0.71109545,0.84036016,0.77034277
+Hypotension,a common complication of the use of intravenous (IV) fluids.,Una complicación frecuente del uso de líquidos intravenosos (IV).,0.6187582,0.7912898,0.6944686
+Hysterectomy,the most common surgical procedure performed in women.,El procedimiento quirúrgico más frecuente en la mujer,0.48114663,0.5932205,0.531338
+Hemophilia,a rare X-linked bleeding disorder caused by deficiency of coagulation factor VIII (FVIII) or IX.,Un raro trastorno hemorrágico ligado a X por déficit de factor VIII de coagulación (FVIII) o IX,0.67496914,0.7979481,0.7313247
+Psoriasis,a chronic inflammatory skin disease characterized by epidermal hyperplasia and infiltration of immune cells.,Una enfermedad cutánea inflamatoria crónica caracterizada por hiperplasia epidérmica e infiltración de células inmunes,0.5757572,0.720666,0.64011294
+Psychiatrist,the most important person to be involved in this process.,la persona más importante a participar en este proceso.,0.6807642,0.7863669,0.72976494
+Psychiatry,a field of medicine that has been undergoing rapid change.,Un campo de la medicina que ha estado pasando por cambios rápidos.,0.56589043,0.7190864,0.63335633
+Ichthyoid,a rare tumor of the thyroid gland.,Un raro tumor de tiroides,0.55586505,0.6772224,0.61057186
+Postical,the possibility of a more effective treatment with an increased dose.,La posibilidad de un tratamiento más eficaz con dosis aumentadas,0.6154934,0.75155234,0.6767521
+Ileocecal Valve,a rare congenital anomaly.,&quot;Un caso &quot;infrecuente&quot;,0.32486176,0.6005753,0.42164716
+Ileitis,a common complication of Crohn's disease (CD).,Una complicación frecuente de la enfermedad de Crohn (EC).,0.6043432,0.7662109,0.6757184
+Iliac Artery,the most common site of arterial injury.,El sitio más frecuente de la lesión arterial.,0.67505854,0.73810095,0.70517355
+Intercostal,a common site of metastasis in patients with breast cancer.,Un sitio común de metástasis en pacientes con cáncer de mama,0.43058497,0.5560936,0.48535675
+Intramuscular,the most common site of infection.,La infección por el virus de la inmunodeficiencia humana,0.46620637,0.60925424,0.52821684
+Iritis,a common complication of uveitis.,Una complicación frecuente de la uveítis,0.46714446,0.67411715,0.55186313
+Iridocyclitis,a common inflammatory disease of the eye.,Una enfermedad inflamatoria ocular común,0.5553372,0.73551685,0.6328522
+Ischophonia,a common symptom in patients with Parkinson's disease (PD).,Un síntoma frecuente en pacientes con enfermedad de Parkinson (EP).,0.5746445,0.72088087,0.63950926
+Ischiatic Nerve,a common source of pain in the lower back and pelvis.,Una fuente común de dolor en espalda baja y pelvis,0.5558359,0.6858773,0.6140471
+Hypothyroidism,a common endocrine disorder that can cause significant morbidity and mortality.,Un trastorno endocrino común que puede causar morbimortalidad significativa,0.5818453,0.7137959,0.64110154
+Isointense,a common finding in the MR images of patients with acute stroke.,Hallazgo frecuente en las imágenes de resonancia magnética de pacientes con ictus agudo,0.46618375,0.6194805,0.5320093
+Arthritiss,a rare disease characterized by the presence of tender nodules on the skin and joints.,Una rara enfermedad caracterizada por la presencia de nódulos blandos en piel y articulaciones,0.5507467,0.7202002,0.624177
+Immunity,a complex process that involves the interaction of multiple cell types and molecules.,Un complejo proceso que implica la interacción de múltiples tipos celulares y moléculas.,0.63564587,0.8085071,0.71173096
+Epithelium,a complex tissue that has been shown to be involved in the pathogenesis of many diseases.,Un tejido complejo que se ha demostrado implicado en la patogenia de muchas enfermedades.,0.6515281,0.7843409,0.71179223
+Juxtaposition,a common feature of the human genome.,Una característica común del genoma humano.,0.60614,0.79271173,0.6869839
+Hyperkalemia,a common electrolyte abnormality in patients with chronic kidney disease (CKD).,Una anomalía electrolítica frecuente en pacientes con enfermedad renal crónica (ERC).,0.6096071,0.7227298,0.6613661
+Megakaryocyte,a highly specialized cell that plays an important role in the regulation of blood production.,Una célula altamente especializada que desempeña un papel importante en la regulación de la producción sanguínea.,0.58225596,0.7663268,0.6617293
+Keratoplasty,a surgical procedure that has been used for the treatment of corneal diseases.,Un procedimiento quirúrgico utilizado en el tratamiento de las enfermedades corneales,0.5802869,0.75513154,0.6562632
+Keratosis,a common skin disorder characterized by the presence of hyperkeratotic papules and plaques.,Un trastorno cutáneo común caracterizado por la presencia de pápulas y placas hiperqueratósicas,0.55352974,0.67564934,0.6085232
+Kinetics,described by a first-order equation.,Descrita por una ecuación de primer orden.,0.5768555,0.7030225,0.6337204
+Labiodental,a useful marker for the diagnosis of congenital heart disease.,Un marcador útil para el diagnóstico de cardiopatías congénitas,0.52129084,0.7517187,0.6156498
+Nasolacrimal,a common congenital anomaly.,&quot;un &quot;un&quot;,0.21029407,0.4552307,0.28768972
+Lactoferrin,"a multifunctional protein that has been shown to be involved in the regulation of immune responses, inflammation and angiogenesis.","Una proteína multifuncional que se ha demostrado implicada en la regulación de las respuestas inmunes, la inflamación y la angiogénesis",0.596983,0.7375745,0.6598733
+Leukemia,a common malignancy in children.,Una malignidad común en el niño,0.5949862,0.76097107,0.6678194
+Linguistics,a discipline that has been used to study the structure and function of language.,Una disciplina que ha servido para estudiar la estructura y función del lenguaje.,0.65610147,0.7869902,0.71561
+Lipectomy,a safe and effective treatment for patients with severe obesity.,Un tratamiento seguro y eficaz en pacientes con obesidad grave,0.552562,0.67493135,0.6076472
+Oncologist,the most important factor in determining treatment.,El factor más importante en la determinación del tratamiento,0.6491091,0.81882656,0.7241568
+Cardiology,a specialty that deals with the diagnosis and treatment of heart disease.,Una especialidad que se ocupa del diagnóstico y tratamiento de las cardiopatías,0.56620365,0.7770847,0.65509117
+Thrombolysis,a well-established treatment for acute ischemic stroke.,Tratamiento bien establecido del ictus isquémico agudo,0.46163055,0.6198597,0.5291701
+Osteolytic,a rare complication of chronic osteomyelitis.,Una rara complicación de la osteomielitis crónica,0.6225536,0.831532,0.7120258
+Macrophage,a key cell in the innate immune system.,Una célula clave en el sistema inmune innato,0.45135325,0.6267775,0.5247936
+Osteomalacia,a metabolic bone disease characterized by low serum levels of 25-hydroxyvitamin D (25OHD) and elevated urinary excretion of calcium.,Enfermedad ósea metabólica caracterizada por niveles séricos bajos de 25-hidroxivitamina D (25OHD) y elevada excreción urinaria de calcio,0.5891173,0.7228669,0.6491746
+Mammography,the most common imaging modality used to screen for breast cancer.,La modalidad de imagen más frecuente utilizada para la detección del cáncer de mama,0.4834621,0.6647161,0.55978256
+Acromegaly,a rare disease characterized by excessive growth hormone (GH) secretion and excess of insulin-like growth factor I.,Una rara enfermedad caracterizada por secreción excesiva de hormona de crecimiento (GH) y exceso de factor de crecimiento similar a la insulina I,0.5374329,0.65457827,0.59024936
+Mentolabial,"a complex and dynamic process that involves the facial skeleton, lips, oral mucosa, tongue, palate, and nasal cavity.","Un proceso complejo y dinámico que involucra el esqueleto facial, labios, mucosa oral, lengua, paladar y cavidad nasal",0.6313634,0.763476,0.6911632
+Dementia,a common and serious condition that affects the quality of life for many people.,Una entidad común y grave que afecta a la calidad de vida de muchas personas,0.6918749,0.8562145,0.7653218
+Metacarpal bones,a common site of injury in the hand.,Un sitio común de lesión en la mano,0.57057965,0.693078,0.6258914
+Sphygmomanometer,a widely used device for measuring blood pressure.,Un dispositivo de uso generalizado para medir la presión arterial,0.53515685,0.6626118,0.592103
+Spirometry,a useful tool for the diagnosis of asthma and COPD.,Una herramienta útil para el diagnóstico del asma y la EPOC,0.5279821,0.7437023,0.61754555
+Microglia,the resident immune cells of brain and plays a critical role in maintaining homeostasis.,Las células inmunes residentes del cerebro y juegan un papel crítico en el mantenimiento de la homeostasis,0.49321726,0.6757332,0.57022655
+Monocyte,a key cell in the pathogenesis of atherosclerosis.,Una célula clave en la patogenia de la aterosclerosis,0.5927707,0.7460096,0.66062015
+Morphology,a key factor in the diagnosis of this disease.,Un factor clave en el diagnóstico de esta enfermedad,0.6400211,0.8308599,0.7230603
+Multipara,"a rare condition, and the diagnosis of multipara can be challenging.",Una rara entidad y el diagnóstico de multipara puede ser un reto.,0.5288439,0.6349631,0.5770654
+Myoma,a common benign tumor of the uterus.,Tumor benigno común del útero,0.55381435,0.74005556,0.63353103
+Myringotome,"a rare, benign tumor of the oral cavity.",Tumor benigno poco frecuente de la cavidad bucal,0.5556438,0.6847472,0.6134768
+Myxoma,a benign tumor of the heart.,Tumor endovenoso. A propósito de un caso,0.5460402,0.74346566,0.6296398
+Nanomelia,a rare congenital anomaly characterized by the presence of two or more limbs.,Una rara anomalía congénita caracterizada por la presencia de dos o más miembros.,0.58023745,0.7592261,0.6577729
+Paranasal,a rare site for metastasis of breast cancer.,Un sitio infrecuente de metástasis de cáncer de mama,0.46734068,0.5503775,0.5054716
+Natality,a complex phenomenon that has been studied in many different ways.,Un fenómeno complejo que se ha estudiado de diferentes formas.,0.6162642,0.7553018,0.67873573
+Neonate,the most vulnerable age group to develop severe complications.,El grupo de edad más vulnerable para desarrollar complicaciones graves,0.5996163,0.73668814,0.6611221
+Nephron,a complex organ that plays an important role in the regulation of blood pressure.,Un órgano complejo que desempeña un papel importante en la regulación de la presión arterial.,0.54000634,0.70911527,0.6131136
+Neurosis,a common disorder in the elderly.,Alteraciones de la calidad de vida,0.43982178,0.6142674,0.5126097
+Nocturia,a common symptom in patients with BPH.,Un síntoma frecuente en pacientes con HBP,0.56186515,0.6649388,0.6090719
+Nulligravida,associated with an increased risk of preterm birth.,Asociación con un aumento del riesgo de nacimiento pretérmino,0.5640571,0.7151058,0.6306632
+Nyctophobia,a genus of nitrogen-fixing bacteria that are found in the soil and water.,Un género de bacterias fijadoras de nitrógeno que se encuentran en el suelo y en el agua,0.5778237,0.74267185,0.6499581
+Ocular,a rare site of metastasis from breast cancer.,Un sitio infrecuente de metástasis por cáncer de mama,0.46802753,0.5976742,0.5249648
+Odontalgia,a painful condition of the orofacial region that can be caused by various factors.,Una dolorosa entidad de la región orofacial que puede ser causada por algunos factores.,0.68897897,0.81473815,0.7465998
+Steroid,a potent inhibitor of the growth and differentiation of many cell types.,Un potente inhibidor del crecimiento y diferenciación de muchos tipos celulares,0.6306536,0.7812247,0.69791025
+Oliguria,a common finding in patients with acute renal failure.,Hallazgo frecuente en pacientes con insuficiencia renal aguda,0.5498293,0.6859876,0.61040765
+Melanoma,the most common skin cancer in humans.,El cáncer cutáneo más frecuente en el hombre,0.43853164,0.6010445,0.50708556
+Angiosarcoma,a rare malignant tumor of the skin and soft tissues.,Un raro tumor maligno de piel y partes blandas,0.582217,0.67544353,0.625375
+Opthalmoscope,a useful tool for the diagnosis of ocular surface diseases.,Una herramienta útil para el diagnóstico de las enfermedades de la superficie ocular,0.57943827,0.7869917,0.6674518
+Diplopia,a common complaint in patients with orbital tumors.,Una queja frecuente en pacientes con tumores orbitarios,0.5931991,0.7132974,0.6477283
+Biopsy,the gold standard for diagnosis of this condition.,El patrón oro para el diagnóstico de esta enfermedad,0.5497796,0.71448946,0.62140524
+Orchitis,a common complication of HIV infection.,A propósito de un caso de infección por el virus de la inmunodeficiencia humana,0.4714609,0.69076097,0.560421
+Orchidoepididymectomy,a common procedure in the management of patients with azoospermia.,Un procedimiento común en el manejo de pacientes con azoospermia,0.64007944,0.7833704,0.7045127
+Endometriosis,a common gynecological disease that affects women of reproductive age.,Una enfermedad ginecológica común que afecta a mujeres en edad reproductiva,0.6011559,0.74481046,0.66531706
+Endosteum,a highly vascularized tissue that has been used as an alternative to bone grafts in the treatment of large segmental defects.,Un tejido altamente vascularizado que se ha utilizado como alternativa a los injertos óseos en el tratamiento de los grandes defectos segmentarios.,0.61641926,0.75379753,0.6782216
+Colostomy,a common procedure in the treatment of colorectal cancer.,Un procedimiento común en el tratamiento del cáncer colorrectal,0.56075674,0.69180554,0.6194257
+Otoplasty,a common procedure in the treatment of congenital aural atresia.,Un procedimiento común en el tratamiento de la atresia auricular congénita,0.6123621,0.7767041,0.6848113
+Laparotomy,the preferred method of diagnosis and treatment.,el método preferente de diagnóstico y tratamiento.,0.6563715,0.8281622,0.732327
+Aqueous,the most common solvent for protein crystallization.,El solvente más frecuente para la cristalización de proteínas,0.5340644,0.72687006,0.6157266
+Ovulation,induced by the administration of human chorionic gonadotropin (hCG).,inducido por la administración de gonadotropina coriónica humana (hCG).,0.69757533,0.7606268,0.7277379
+Pachyderma,a rare disease characterized by hyperkeratosis of the skin.,Una rara enfermedad caracterizada por hiperqueratosis de la piel,0.6325761,0.74334484,0.6835017
+Palatoschisis,a rare congenital anomaly of the palate.,Una rara anomalía congénita del paladar,0.5163368,0.68028337,0.58707905
+Pancytopenia,a rare complication of acute pancreatitis.,Una rara complicación de la pancreatitis aguda,0.6516779,0.8255372,0.7283765
+Papillary,a common benign tumor of the thyroid gland.,Tumor benigno común de tiroides,0.5204367,0.69140124,0.5938592
+Parathyroid glands,a common endocrine gland that secretes parathyroid hormone (PTH).,Una glándula endocrina común que segrega hormona paratiroidea (PTH).,0.58517975,0.7081014,0.640799
+Hemiparesis,a common complication of stroke.,A propósito de un ictus,0.48974603,0.6082233,0.5425925
+Patellectomy,a common procedure in the treatment of osteoarthritis.,Un procedimiento común en el tratamiento de la artrosis,0.50116324,0.639117,0.5617951
+Lymphadenopathy,a common finding in patients with HIV infection.,Hallazgo frecuente en pacientes con infección por VIH,0.49893242,0.5954851,0.5429497
+Pediatrics,a field of medicine that has been undergoing rapid change.,Un campo de la medicina que ha estado pasando por cambios rápidos.,0.56589043,0.7190864,0.63335633
+Pedestrian,a major vehicle for the transport of children.,Un vehículo mayor para el transporte de niños,0.634186,0.82373476,0.7166385
+Thrombocytopenia,a common complication of acute pancreatitis.,Una complicación frecuente de la pancreatitis aguda,0.5462325,0.79775995,0.6484596
+Dyspepsia,a common disorder in the general population.,Un trastorno común en la población general,0.6214511,0.7362574,0.67400026
+Percutaneous,a safe and effective treatment for patients with symptomatic benign biliary strictures.,Un tratamiento seguro y eficaz en pacientes con estenosis biliar benigna sintomática,0.52790433,0.61982733,0.5701847
+Peripheral vision,"a critical component of the visual system, and it has been shown that peripheral vision can be impaired by various pathologies.","Un componente crítico del sistema visual, y se ha demostrado que la visión periférica puede verse afectada por diversas patologías.",0.5975124,0.73486334,0.65910834
+Osteopetrosis,a rare inherited disorder characterized by defective bone resorption and increased bone formation.,Un raro trastorno hereditario caracterizado por reabsorción ósea defectuosa y aumento de la formación ósea,0.49627382,0.61408764,0.54893047
+Oophoropexy,a surgical procedure that has been used to treat patients with chronic constipation.,Un procedimiento quirúrgico que se ha utilizado para tratar a pacientes con estreñimiento crónico.,0.5169934,0.66629136,0.5822237
+Phacolysis,a rare complication of pregnancy.,Un embarazo. A propósito de una complicación,0.50296557,0.6175926,0.5544162
+Dysphagia,a common symptom in patients with head and neck cancer.,Un síntoma frecuente en pacientes con cáncer de cabeza y cuello,0.5158004,0.5853431,0.5483758
+Aphasia,a common symptom in patients with stroke.,Un síntoma frecuente en pacientes con ictus,0.44622713,0.55412793,0.49435833
+Phlebitis,a common complication of peripheral intravenous (IV) access.,Una complicación frecuente del acceso intravenoso periférico (IV).,0.58379966,0.8057981,0.6770659
+Photophobia,a common complaint in patients with migraine.,Una queja frecuente en pacientes con migraña,0.50874233,0.626636,0.5615684
+Photosensitivity,"a common feature of many skin diseases, including psoriasis.","Una característica común de muchas enfermedades cutáneas, incluyendo la psoriasis.",0.57724535,0.7913629,0.66755486
+Phrenopathy,a common cause of chronic renal failure in children.,Una causa frecuente de insuficiencia renal crónica en el niño,0.5849266,0.7582125,0.6603912
+Physiology,a complex process that involves the integration of multiple signals.,Un complejo proceso que implica la integración de múltiples señales.,0.65971327,0.8094932,0.7269685
+Symphysis,a common site of injury in children.,Un sitio frecuente de lesión en el niño,0.5622345,0.74253285,0.6399265
+Hyperplasia,a common finding in the lungs of patients with cystic fibrosis (CF).,Hallazgo frecuente en pulmones de pacientes con fibrosis quística (FQ).,0.6225882,0.7337313,0.673606
+Cytoplasm,the main site of protein synthesis in eukaryotic cells.,El sitio principal de síntesis proteica en las células eucarióticas,0.51751554,0.66586,0.5823897
+Rhinoplasty,a common procedure in plastic surgery.,A propósito de un procedimiento de cirugía plástica. A propósito de un caso,0.4561122,0.6340306,0.53055274
+Hemiplegia,a common complication of stroke.,A propósito de un ictus,0.48974603,0.6082233,0.5425925
+Sleep apnea,a common disorder that can be associated with cardiovascular disease.,Un trastorno común que puede estar asociado a enfermedad cardiovascular.,0.6252329,0.7742677,0.6918148
+Pneumonectomy,a life-saving procedure for patients with advanced lung cancer.,Un procedimiento de rescate vital en pacientes con cáncer de pulmón avanzado,0.52638245,0.6684061,0.58895314
+Podocyte,a highly specialized cell type that plays an important role in the maintenance of glomerular filtration barrier.,Un tipo celular altamente especializado que desempeña un papel importante en el mantenimiento de la barrera de filtración glomerular.,0.6159195,0.69909924,0.6548787
+Hemopoiesis,a complex process that requires the coordinated action of multiple cell types.,Un proceso complejo que requiere la acción coordinada de múltiples tipos celulares.,0.62591046,0.78022885,0.6946017
+Polyuria,a common feature of the syndrome.,&quot;El rasgo común&quot;,0.37228867,0.55884767,0.446879
+Postpartum,a period of increased risk for cardiovascular disease (CVD).,Un período de riesgo aumentado de enfermedad cardiovascular (EVC).,0.63346004,0.77109337,0.69553334
+Prenatal,a period of rapid growth and development.,Un período de rápido crecimiento y desarrollo.,0.5964364,0.7885294,0.67916137
+Prognosis,"poor, with a median survival of only 3 months.","pobres, con una supervivencia media de sólo tres meses",0.54221153,0.665361,0.5975069
+Proctology,a specialty that deals with the treatment of anorectal disorders.,Una especialidad que se ocupa del tratamiento de los trastornos anorrectales.,0.54082435,0.68188095,0.6032162
+Prostatitis,a common inflammatory disease of the prostate.,Una enfermedad inflamatoria común de la próstata,0.49022958,0.6852816,0.5715732
+Apoptosis,a process of cell death that plays an important role in the development and maintenance of normal tissues.,Un proceso de muerte celular que desempeña un papel importante en el desarrollo y mantenimiento de tejidos normales.,0.5789666,0.75386894,0.6549419
+Quadriceps,the most commonly injured muscle in patients with anterior cruciate ligament (ACL) injury.,El músculo más frecuentemente lesionado en pacientes con lesión del ligamento cruzado anterior (ACL).,0.60311115,0.7322271,0.6614269
+Retinopathy,a common complication of diabetes mellitus.,A propósito de un caso. A propósito de un caso,0.398685,0.5908432,0.47610635
+Rhinoorrhea,a common symptom in patients with chronic rhinosinusitis (CRS).,Un síntoma frecuente en pacientes con rinosinusitis crónica (SCR).,0.65337896,0.76965344,0.7067659
+Rhytidoplasty,"a popular aesthetic procedure, but the long-term results are not well known.","Un procedimiento estético popular, pero los resultados a largo plazo no son bien conocidos.",0.59145284,0.6653552,0.62623125
+Hemorrhage,a common complication of liver transplantation.,A propósito de una complicación de la &quot;a&quot;a &quot;a&quot;,0.3340539,0.6253873,0.43548906
+Cholecystorrhaphy,a safe and effective procedure for the treatment of acute cholecystitis.,Un procedimiento seguro y eficaz para el tratamiento de la colecistitis aguda,0.62494004,0.8078343,0.70471394
+Diarrhea,the most common complication of HIV infection.,La complicación más frecuente de la infección por VIH,0.49237293,0.6366115,0.5552783
+Amniorrhexis,a rare complication of pregnancy.,Un embarazo. A propósito de una complicación,0.50296557,0.6175926,0.5544162
+Salpingotomy,a common procedure in the management of infertility.,Un procedimiento común en el manejo de la infertilidad,0.58022845,0.7551136,0.65621895
+Pyosalpinx,a rare condition that can be caused by infection with Mycobacterium tuberculosis or other mycobacteria.,Una rara entidad que puede ser causada por infección por Mycobacterium tuberculosis u otras micobacterias,0.66916907,0.7901217,0.7246328
+Rhabdomyosarcoma,the most common soft tissue sarcoma in children.,El sarcoma de partes blandas más frecuente en el niño,0.58049405,0.6673245,0.62088823
+Scapulectomy,a common procedure in the treatment of scapula fractures.,Un procedimiento común en el tratamiento de las fracturas de escápulas,0.5554851,0.7428193,0.63563687
+Cranioschisis,a rare congenital anomaly of the central nervous system.,Una rara anomalía congénita del sistema nervioso central,0.5133685,0.6881151,0.58803403
+Arteriosclerosis,"a chronic disease of the arterial wall, which leads to progressive narrowing and occlusion.","Una enfermedad crónica de la pared arterial, que conduce al estrechamiento progresivo y a la oclusión.",0.61568743,0.708423,0.65880775
+Endoscope,a useful tool for the diagnosis of gastrointestinal diseases.,Una herramienta útil para el diagnóstico de las enfermedades gastrointestinales,0.5600814,0.80108726,0.65924835
+Endoscopy,the gold standard for diagnosis of gastric cancer.,El patrón oro para el diagnóstico del cáncer gástrico,0.50060344,0.67422116,0.57458353
+Sebaceous gland,a common site of metastasis from breast cancer.,Un sitio común de metástasis por cáncer de mama,0.44068593,0.5813739,0.50134695
+Semilunar valves,a common cause of mitral regurgitation in the elderly.,Una causa frecuente de insuficiencia mitral en el anciano,0.55826604,0.6990043,0.62075806
+Sialic Acid,"a key component of the glycocalyx, which covers most mammalian cells.","Un componente clave del glucocáliz, que cubre la mayoría de las células de mamífero.",0.5550052,0.6771151,0.61000925
+Agranulocytosis,a rare but serious complication of chemotherapy.,Una complicación poco frecuente pero grave de la quimioterapia,0.5610484,0.7385118,0.6376632
+Vasospasm,a common complication of subarachnoid hemorrhage (SAH).,Una complicación frecuente de la hemorragia subaracnoidea (SAH).,0.636215,0.80256647,0.70977396
+Spirometer,"a simple, inexpensive and reliable instrument for the measurement of blood gases.","Un instrumento sencillo, económico y fiable para la medición de gases sanguíneos",0.61462104,0.7910563,0.6917659
+Homeostasis,maintained by the balance between cell proliferation and apoptosis.,mantenido por el equilibrio entre proliferación celular y apoptosis,0.7394575,0.8431339,0.7878998
+Ureterostenosis,a rare complication of ureterovesical reimplantation.,Una rara complicación del reimplante ureterovesical,0.6962236,0.8135649,0.7503344
+Stethoscope,a device that can be used to monitor the heart rate and blood pressure.,Un dispositivo que puede usarse para monitorizar la frecuencia cardíaca y la presión arterial.,0.65312743,0.79728556,0.7180425
+Nephrostomy,a common procedure in the management of obstructive uropathy.,Un procedimiento común en el manejo de la uropatía obstructiva,0.5709831,0.6892191,0.6245545
+Subcutaneous,a common site of infection in patients with diabetes mellitus.,Un sitio común de infección en pacientes con diabetes mellitus,0.6681496,0.80499244,0.73021525
+Suprascapular,a common site of injury in the shoulder.,Un sitio común de lesión en el hombro,0.5378395,0.6621916,0.5935727
+Symphysis,a common site of injury in children.,Un sitio frecuente de lesión en el niño,0.5622345,0.74253285,0.6399265
+Tachycardia,a common finding in patients with chronic heart failure (CHF).,Un hallazgo frecuente en pacientes con insuficiencia cardíaca crónica (ICC).,0.55053097,0.68343395,0.6098254
+Tarsitis,a common condition in the elderly.,A propósito de un caso. A propósito de un caso,0.3894063,0.5356374,0.4509637
+Metatarsal,the most common site of involvement.,&quot;El más frecuente de los sitios de afección&quot;,0.47982258,0.7015769,0.5698876
+Tendinitis,a common condition in the elderly.,A propósito de un caso. A propósito de un caso,0.3894063,0.5356374,0.4509637
+Teratoma,a rare tumor of the ovary.,Un raro tumor de ovario,0.70656884,0.79593974,0.7485963
+Testicular,a rare site for metastasis of breast cancer.,Un sitio infrecuente de metástasis de cáncer de mama,0.46734068,0.5503775,0.5054716
+Tetralogy of Fallot,a common cyanotic congenital heart disease.,Una cardiopatía congénita cianótica frecuente,0.41891748,0.62625885,0.502022
+Thoracolumbar Spine,a common site of injury in road traffic accidents.,Un sitio común de lesión en los accidentes de tráfico.,0.6092466,0.78118247,0.6845841
+Hemothorax,a rare complication of percutaneous nephrolithotomy (PCNL).,Una rara complicación de la nefrolitotomía percutánea (PCNL).,0.67059493,0.76979506,0.71677905
+Thrombin,a potent activator of platelets and has been implicated in the pathogenesis of atherosclerosis.,Un potente activador de plaquetas y ha estado implicado en la patogenia de la aterosclerosis,0.61754364,0.75170803,0.67805284
+Dystocia,the most common complication of pregnancy.,&quot;El comun de la masta&quot; del &quot;complejo&quot;,0.32172012,0.5332265,0.4013109
+Dermatome,a common site of pain in patients with chronic pancreatitis.,Un sitio común de dolor en pacientes con pancreatitis crónica,0.63456213,0.780983,0.70019984
+Transdermal,a new method of drug delivery.,Un nuevo método de administración de fármacos,0.58837914,0.7736011,0.6683955
+Triceps,the most common site of metastasis.,El sitio más frecuente de metástasis,0.5686191,0.6420342,0.6031006
+Cholecystolithotripsy,a safe and effective treatment for symptomatic gallbladder stones.,Tratamiento seguro y eficaz de los cálculos de vesícula biliar sintomáticos,0.4740715,0.63295233,0.54211056
+Hypertrophy,a common finding in patients with hypertrophic cardiomyopathy (HCM).,Un hallazgo frecuente en pacientes con miocardiopatía hipertrófica (MCH).,0.63607275,0.7458911,0.6866185
+Tympanometry,a useful tool for the diagnosis of middle ear effusion.,Una herramienta útil para el diagnóstico del derrame de oído medio,0.5071607,0.6955382,0.5865968
+Endocardium,a complex structure that contains the heart muscle and its supporting structures.,Una estructura compleja que contiene el músculo cardíaco y sus estructuras de soporte.,0.5742761,0.7113847,0.63551944
+Unicellular,a new concept in the field of cell biology.,Un nuevo concepto en el campo de la biología celular,0.69889027,0.8610041,0.7715233
+Anuria,a rare complication of acute pyelonephritis.,Una rara complicación de la pielonefritis aguda,0.56577533,0.64203423,0.60149735
+Vasodilation,a major determinant of the hemodynamic effects of beta-adrenergic receptor stimulation.,Un determinante mayor de los efectos hemodinámicos de la estimulación del receptor beta-adrenérgico,0.6226951,0.7406872,0.6765854
